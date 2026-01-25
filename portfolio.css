@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>naghma_parveen_portfolio</title>
+    <link rel="stylesheet" href="src/style.css">
+
+  </head>
+  <body>
+      
+
+
+    <div  class ="main-container">
+       <!--sidebar-->
+       <div class="sidebar">
+
+        <!--profile-->
+        <div class ="profile">
+             <img src="./portfolio.jepg"alt="">
+             <h2>Naghma Parveen</h2>
+             <p>Frontend developer</p>
+
+
+
+    
+        </div>
+        <!--contact-->
+        <!--socialmedia-->
+       </div>
+  
+      
+
+    <!--main-content-->  
+
+  </body>
+</html>
